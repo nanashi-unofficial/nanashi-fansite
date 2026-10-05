@@ -1,0 +1,16 @@
+// このファイルは tools/convert_news.py が NEWS.xlsx から自動生成します。
+// 直接編集せず、Excel を直してから変換スクリプトを実行してください。
+// 生成日時: 2026-10-05 21:01  件数: 11
+window.NEWS = [
+  {"id": "debut-2025", "date": "2025-10-10", "title": "YouTubeチャンネル開設", "detail": "2025年10月10日、nanashiとしてYouTubeでの活動を開始しました。\n同日、初となるショート動画「スキスキ絶頂症 / koyori(電ポルP)」が投稿されました。", "url": "https://www.youtube.com/@nanashi_77shi", "urlLabel": "YouTube チャンネルを見る"},
+  {"id": "first-live-stream", "date": "2025-10-15", "title": "初のライブ配信を実施", "detail": "2025年10月15日、YouTubeで初めてのライブ配信が行われました。", "url": "https://www.youtube.com/watch?v=YUqBBRJU3lk", "urlLabel": "配信アーカイブを見る"},
+  {"id": "monetization-start", "date": "2026-01-01", "title": "YouTubeの収益化を開始", "detail": "2025年12月26日の年内最後の配信で2026年1月からの収益化が発表され、2026年1月1日から収益化がONになりました。\n2026年1月14日には、収益化記念の歌枠が行われました。", "url": "https://www.youtube.com/watch?v=QUz0J2vLRmM", "urlLabel": "収益化記念配信を見る"},
+  {"id": "live2d-debut", "date": "2026-01-20", "title": "ななし律歌としての活動を開始", "detail": "2026年1月20日にLive2Dと新たな活動名のお披露目配信が行われました。", "url": "https://www.youtube.com/live/tgs8RRPqAyI", "urlLabel": "お披露目配信を見る"},
+  {"id": "membership-open", "date": "2026-01-29", "title": "メンバーシップ「ななしのバックステージ」を開設", "detail": "2026年1月29日の歌枠にあわせて、YouTubeメンバーシップ「ななしのバックステージ」が開設されました。\n\n■特典（開設時の案内より）\n・ななし手書きのバッジ・スタンプ\n・不定期の限定配信\n・写真でちょっとした日常を投稿 など", "url": "https://www.youtube.com/channel/UCMmmUDkxgKyVehpXokwPYDA/join", "urlLabel": "メンバーシップのページを見る"},
+  {"id": "half-anniversary", "date": "2026-04-10", "title": "Half Anniversaryを迎える", "detail": "2026年4月10日に活動6か月を迎え、記念の弾き語り配信「バーチャル路上ライブ」が行われました。", "url": "https://www.youtube.com/live/oX6x1InCUZY", "urlLabel": "配信アーカイブを見る"},
+  {"id": "relay-spring-2026", "date": "2026-04-25", "title": "「#ギターで彩る春の歌うまV弾き語リレー」に参加", "detail": "2026年4月23日〜4月26日の4日間で行われた「#ギターで彩る春の歌うまV弾き語リレー」に参加しました。\n出演は2026年4月25日です。", "url": "https://www.youtube.com/live/F5tIpnRmmV8", "urlLabel": "配信アーカイブを見る"},
+  {"id": "birthday-2026", "date": "2026-07-04", "title": "活動開始後、初めての誕生日", "detail": "2026年7月4日に、ななし律歌の活動開始後初めての誕生日を迎えました。\n誕生日を記念して、カウントダウン配信と記念歌枠が行われました。", "links": [{"url": "https://www.youtube.com/live/LBqKJGKAAqk", "label": "カウントダウン配信を見る"}, {"url": "https://www.youtube.com/live/xnJP3UOTsOU", "label": "誕生日記念歌枠を見る"}]},
+  {"id": "live-vackon-vol13", "date": "2026-08-15", "title": "「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」への出演が決定", "detail": "東京都・吉祥寺のライブハウス「吉祥寺SHUFFLE」にて、リアル会場・音楽特化のVSingerフェス「Vack-ON!!」のスピンオフライブイベントの開催が決定しました。\n\n■開催概要\n＜開催日時＞\n2026年9月11日(金) 開演 19:00（開場 18:30）\n＜会場＞\n吉祥寺SHUFFLE\n\n※このライブは2026年9月11日に終了しました。", "url": "https://www.zan-live.com/ja/live/detail/10934", "urlLabel": "公式サイトで詳細を見る"},
+  {"id": "live-vackon-vol13-report", "date": "2026-09-11", "title": "初ライブ「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」に出演", "detail": "2026年9月11日、東京都・吉祥寺のライブハウス「吉祥寺SHUFFLE」で開催された「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」に出演しました。\n翌日の2026年9月12日には、ライブ当日を振り返る配信が行われました。\n\n■セットリスト\n・狂乱 Hey Kids!! / THE ORAL CIGARETTES\n・怪獣の花唄 / Vaundy\n・風を食む / ヨルシカ\n・夜明けと蛍 / n-buna", "url": "https://www.youtube.com/watch?v=RgOrIFd-GlM", "urlLabel": "振り返り配信を見る"},
+  {"id": "anniversary-1st", "date": "2026-10-10", "title": "1st Anniversaryを迎える", "detail": "2025年10月10日、YouTubeチャンネルの開設とショート動画の投稿から始まった活動が、1周年を迎えました。", "url": "./biography.html", "urlLabel": "経歴を見る"},
+];

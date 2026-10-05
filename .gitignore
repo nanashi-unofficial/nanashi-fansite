@@ -1,0 +1,21 @@
+# macOS が自動で作る隠しファイル
+.DS_Store
+# Excel を開いている間だけできる一時ファイル
+~$*.xlsx
+# Excel の修正前バックアップ（サイトには不要）
+backup/
+# 元画像の置き場（サイトでは images/ の縮小版を使う）
+画像/
+# Excel・Numbers のファイルはすべて送らない（内部に作成者名が残る。コピーや別名保存も含めて除外する）
+# サイトは変換後の data/songs.js・data/news.js・data/biography.js を使う
+*.xlsx
+*.xlsm
+*.numbers
+# 変換スクリプトが途中で止まった時に残る一時ファイル
+*.tmp
+# 制作用の文書（要件・レビュー報告）。サイトには不要
+要件.md
+docs/
+# Python が自動で作る作業ファイル
+__pycache__/
+*.pyc
