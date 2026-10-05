@@ -1,9 +1,10 @@
 // このファイルは tools/convert_news.py が NEWS.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-05 21:01  件数: 11
+// 生成日時: 2026-10-05 21:54  件数: 12
 window.NEWS = [
   {"id": "debut-2025", "date": "2025-10-10", "title": "YouTubeチャンネル開設", "detail": "2025年10月10日、nanashiとしてYouTubeでの活動を開始しました。\n同日、初となるショート動画「スキスキ絶頂症 / koyori(電ポルP)」が投稿されました。", "url": "https://www.youtube.com/@nanashi_77shi", "urlLabel": "YouTube チャンネルを見る"},
   {"id": "first-live-stream", "date": "2025-10-15", "title": "初のライブ配信を実施", "detail": "2025年10月15日、YouTubeで初めてのライブ配信が行われました。", "url": "https://www.youtube.com/watch?v=YUqBBRJU3lk", "urlLabel": "配信アーカイブを見る"},
+  {"id": "aoku-release", "date": "2025-12-19", "title": "Waslieの楽曲「蒼く feat.nanashi」のVocalを担当", "detail": "2025年12月19日、nanashiがVocalを担当したWaslieの新曲「蒼く feat.nanashi」が公開されました。", "links": [{"url": "https://youtu.be/7GI4jnXphfY", "label": "動画を見る"}, {"url": "https://music.apple.com/jp/album/azure-feat-nanashi-single/1856568649", "label": "Apple Musicで聞く"}]},
   {"id": "monetization-start", "date": "2026-01-01", "title": "YouTubeの収益化を開始", "detail": "2025年12月26日の年内最後の配信で2026年1月からの収益化が発表され、2026年1月1日から収益化がONになりました。\n2026年1月14日には、収益化記念の歌枠が行われました。", "url": "https://www.youtube.com/watch?v=QUz0J2vLRmM", "urlLabel": "収益化記念配信を見る"},
   {"id": "live2d-debut", "date": "2026-01-20", "title": "ななし律歌としての活動を開始", "detail": "2026年1月20日にLive2Dと新たな活動名のお披露目配信が行われました。", "url": "https://www.youtube.com/live/tgs8RRPqAyI", "urlLabel": "お披露目配信を見る"},
   {"id": "membership-open", "date": "2026-01-29", "title": "メンバーシップ「ななしのバックステージ」を開設", "detail": "2026年1月29日の歌枠にあわせて、YouTubeメンバーシップ「ななしのバックステージ」が開設されました。\n\n■特典（開設時の案内より）\n・ななし手書きのバッジ・スタンプ\n・不定期の限定配信\n・写真でちょっとした日常を投稿 など", "url": "https://www.youtube.com/channel/UCMmmUDkxgKyVehpXokwPYDA/join", "urlLabel": "メンバーシップのページを見る"},
