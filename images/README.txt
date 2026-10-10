@@ -3,7 +3,7 @@
 
 現在使っている画像
 - profile.jpg（900×1200）: プロフィールページの画像。元: 画像/プロフィール画像.jpeg（ご本人の X 投稿画像）
-- vackon-shuffle-vol13.jpg（1200×675）: トップのスライド 1 枚目。元: 画像/VackON_SHUFFLE_vol13_keyvisual.png（イベントのキービジュアル。他の出演者も含む）
+- vackon-shuffle-vol13.jpg（1200×675）: トップの注目スライド（初ライブの出演レポート。何枚目に出るかは data/slides.js の並び順で決まる）。元: 画像/VackON_SHUFFLE_vol13_keyvisual.png（イベントのキービジュアル。他の出演者も含む）
 - og.png（1200×630）: X などで共有したときに出るカード用の画像（文字ロゴのみ、自作）
 - apple-touch-icon.png（180×180）: iPhone のホーム画面に追加したときのアイコン（自作）
 

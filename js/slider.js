@@ -110,7 +110,7 @@
       media.appendChild(img);
     } else {
       media.classList.add("is-text");
-      media.textContent = s.label || "INFO";
+      media.textContent = s.label || "お知らせ";
       media.setAttribute("aria-hidden", "true");  // 下の slide-label と同じ語なので読み上げから外す
     }
 

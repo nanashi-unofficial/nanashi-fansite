@@ -434,6 +434,9 @@ main { padding-bottom: 0; }  /* 右下の固定ボタン分の余白はフッタ
 .bio-text { margin: 0; white-space: pre-line; }  /* Excel のセル内改行をそのまま改行として表示 */
 .bio-empty { color: var(--muted); padding: 24px 0; }
 
+/* 404 ページ（404.html）の案内文 */
+.not-found-text { margin: 0; color: var(--ink-2); line-height: 2; }
+
 /* ---------- 歌唱リストの補助（凡例・アーティスト名ボタン） ---------- */
 .legend { margin: -12px 0 20px; font-size: 0.8rem; color: var(--muted); line-height: 1.7; }
 .legend b { font-weight: 500; color: var(--ink-2); }
@@ -545,7 +548,7 @@ main { padding-bottom: 0; }  /* 右下の固定ボタン分の余白はフッタ
   .logo .logo-sub { display: none; }  /* 小さい端末ではメニューを優先 */
   .nav { gap: 8px; }
   .nav a { letter-spacing: 0; }
-  .nav a[href="./index.html"] { display: none; }  /* ロゴがトップへのリンクなので、幅が足りない端末ではメニューの「トップ」を省く（メニューが 5 つ並ぶため） */
+  .nav a[href="./index.html"], .nav a[href="/nanashi-fansite/"] { display: none; }  /* ロゴがトップへのリンクなので、幅が足りない端末ではメニューの「トップ」を省く（メニューが 5 つ並ぶため）。後者は 404.html 用（リンク先を公開 URL 基準で書いているため） */
 }
 
 @media print {

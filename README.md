@@ -33,7 +33,7 @@ VSinger「ななし律歌」のファンによる非公式サイトです（非�
 | `js/` | 動き（スライド・検索・ページ送りなど）の設定 | しない |
 | `images/` | サイトで使う画像（縮小版）。使い方は `images/README.txt` | 画像が来たら |
 | `画像/` | 元画像の置き場。GitHub には送らない | **する** |
-| `backup/`、`docs/` | Excel やサイトの修正前のコピー（NEWS・経歴・歌唱リスト・サイト に分けてあります）と、レビュー報告・調査メモ・画像の許諾記録。GitHub には送らない | 許諾記録は追記する |
+| `backup/`、`docs/` | Excel やサイトの修正前のコピー（NEWS・経歴・歌唱リスト・サイト に分けてあります）と、制作用の文書（作業記録＝レビューの要点と残っている確認事項、活動履歴の調査メモ、画像の許諾記録、X の告知文）。GitHub には送らない | 許諾記録は追記する |
 | `.nojekyll` | GitHub Pages に「ファイルをそのまま公開して」と伝える印 | しない |
 | `.gitignore` | GitHub に送らないファイルの一覧 | しない |
 
@@ -86,7 +86,7 @@ VSinger「ななし律歌」のファンによる非公式サイトです（非�
 1. 左下の **Summary** 欄に `サイト初版` と入力し、**Commit to main** を押す。
 2. 上部の **Publish repository** ボタンを押す。
 3. 出てきた画面で
-   - **Name** は `nanashi-fansite` のまま（`404.html` のリンク先がこの名前を前提にしています）
+   - **Name** は `nanashi-fansite` のまま（`404.html` のリンク先と CSS の読み込み先がこの名前を前提にしています）
    - **Keep this code private** の **チェックを外す**（無料プランで GitHub Pages を使うには公開リポジトリにする必要があります）
    - **Publish Repository** を押す。
 
@@ -160,7 +160,7 @@ cd "/Users/macbook/Desktop/nanashi-fansite" && sed -i '' 's/USERNAME\.github\.io
 
 ```js
   {
-    label: "LIVE",                                   // 左上の小さなラベル
+    label: "ライブ",                                 // 左上の小さな分類ラベル（お知らせ / 動画 / ライブ など日本語で）
     title: "見出し",
     date: "2026.10.01",                              // 不要なら ""
     url: "https://www.youtube.com/watch?v=xxxxxxxxxxx",  // クリック先

@@ -1,6 +1,6 @@
 // このファイルは tools/convert_biography.py が 経歴.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-05 21:54  件数: 19
+// 生成日時: 2026-10-10 18:13  件数: 20
 window.BIOGRAPHY = {
   "intro": "歌とギターが好きな、個人で活動するVSinger。2025年10月にYouTubeチャンネルを開設し、弾き語りのショート動画と歌枠配信を中心に、リアルとVirtualの両方で音楽活動を続けている。",
   "credits": [{"label": "Live2D", "value": "MahirU（イラスト・モデリング）"}],
@@ -24,5 +24,6 @@ window.BIOGRAPHY = {
     {"date": "2026-09-03", "text": "Cover動画「セプテンバーさん / RADWIMPS」を公開。"},
     {"date": "2026-09-11", "text": "初ライブ「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」（吉祥寺SHUFFLE）に出演。"},
     {"date": "2026-09-18", "text": "柊虎雨とのCover動画「夏霞 / あたらよ」を公開。"},
+    {"date": "2026-10-10", "text": "Cover動画「君が飛び降りるのならば / Omoi」を公開。"},
   ]
 };

@@ -5,22 +5,70 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ページが見つかりません | ななし律歌 FAN SITE</title>
   <meta name="robots" content="noindex">
-  <!-- GitHub Pages はどの階層の 404 でもこのページを出すため、CSS は外部ファイルにせずここに書く -->
-  <style>
-    body { margin: 0; font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif;
-           background: #f8f7f4; color: #1c1e21; display: grid; place-items: center; min-height: 100vh; padding: 24px; box-sizing: border-box; }
-    main { text-align: center; max-width: 420px; }
-    h1 { font-size: 1.4rem; letter-spacing: 0.1em; margin: 0 0 12px; }
-    p { color: #4a4d52; line-height: 1.9; margin: 0 0 24px; }
-    a { display: inline-block; padding: 12px 26px; border: 1px solid #1c1e21; border-radius: 999px; color: inherit; text-decoration: none; font-size: 0.86rem; letter-spacing: 0.14em; }
-    a:hover { background: #1c1e21; color: #fff; }
-  </style>
+  <meta name="theme-color" content="#f8f7f4">
+  <meta name="color-scheme" content="only light">
+  <!-- GitHub Pages はどの階層の URL でもこのページを出すため、CSS・画像・リンクは「./」ではなく
+       公開 URL 基準の「/nanashi-fansite/」で書く（README 1-3 のリポジトリ名が前提）。
+       このファイルを PC で直接開くと CSS は当たらないが、公開環境では他のページと同じ見た目になる -->
+  <link rel="apple-touch-icon" href="/nanashi-fansite/images/apple-touch-icon.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2335505f'/%3E%3Ctext x='32' y='44' font-size='34' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'%3E律%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/nanashi-fansite/css/style.css">
 </head>
 <body>
+  <!-- ヘッダー（全ページ共通・常に表示） -->
+  <header class="site-header">
+    <div class="inner">
+      <a class="logo" href="/nanashi-fansite/" aria-label="ななし律歌 FAN SITE トップページへ">
+        <span class="logo-name">ななし律歌</span>
+        <span class="logo-sub">FAN SITE</span>
+      </a>
+      <nav class="nav" aria-label="メニュー">
+      <a href="/nanashi-fansite/">トップ</a>
+      <a href="/nanashi-fansite/profile.html">プロフィール</a>
+      <a href="/nanashi-fansite/biography.html">経歴</a>
+      <a href="/nanashi-fansite/news.html">NEWS</a>
+      <a href="/nanashi-fansite/songs.html">歌唱リスト</a>
+      </nav>
+    </div>
+  </header>
+
   <main>
-    <h1>ページが見つかりません</h1>
-    <p>リンクが古いか、ページが移動した可能性があります。</p>
-    <a href="/nanashi-fansite/">トップページへ <span aria-hidden="true">→</span></a>
+    <section class="section" id="not-found">
+      <div class="inner inner--narrow">
+        <div class="section-head">
+          <h1 class="section-title">ページが見つかりません<span class="ja">404</span></h1>
+        </div>
+        <p class="not-found-text">リンクが古いか、ページが移動した可能性があります。<br>上のメニューか、下のボタンからお進みください。</p>
+        <p class="news-foot"><a class="btn-more" href="/nanashi-fansite/">トップページへ</a></p>
+      </div>
+    </section>
   </main>
+
+  <!-- SNS リンク（全ページ共通・右下に常に表示） -->
+  <nav class="sns-fixed" aria-label="SNS">
+    <a href="https://x.com/__77shi" target="_blank" rel="noopener noreferrer" aria-label="X を新しいタブで開く" title="X">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-7.4 8.5L23 22h-6.8l-5.3-6.9L4.8 22H1.7l7.9-9L.5 2h7l4.8 6.3L18.9 2zm-1.2 18h1.9L7 3.9H5L17.7 20z"/></svg>
+    </a>
+    <a href="https://www.youtube.com/@nanashi_77shi" target="_blank" rel="noopener noreferrer" aria-label="YouTube を新しいタブで開く" title="YouTube">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg>
+    </a>
+    <a href="https://www.tiktok.com/@__.nanashi.__" target="_blank" rel="noopener noreferrer" aria-label="TikTok を新しいタブで開く" title="TikTok">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.5 2h3.1c.2 1.7 1.2 3.3 2.7 4.2.9.6 2 .9 3 .9v3.2c-2 0-3.9-.6-5.5-1.7v7.1c0 3.5-2.9 6.3-6.4 6.3S3 19.2 3 15.7s2.9-6.3 6.4-6.3c.3 0 .6 0 .9.1v3.3c-.3-.1-.6-.2-.9-.2-1.7 0-3.1 1.4-3.1 3.1s1.4 3.1 3.1 3.1 3.1-1.4 3.1-3.1V2z"/></svg>
+    </a>
+  </nav>
+
+  <!-- フッター（全ページ共通） -->
+  <footer class="site-footer">
+    <div class="inner">
+      <p class="footer-name">ななし律歌 FAN SITE</p>
+      <div class="footer-links">
+        <a href="https://x.com/__77shi" target="_blank" rel="noopener noreferrer">X</a>
+        <a href="https://www.youtube.com/@nanashi_77shi" target="_blank" rel="noopener noreferrer">YouTube</a>
+        <a href="https://www.tiktok.com/@__.nanashi.__" target="_blank" rel="noopener noreferrer">TikTok</a>
+      </div>
+      <p class="disclaimer">本サイトはファンによる非公式サイトです。ご本人とは関係ありません。</p>
+      <p class="disclaimer rights">掲載している画像・名称などの権利は各権利者に帰属します。権利者からの削除のご要望には速やかに対応します。</p>
+    </div>
+  </footer>
 </body>
 </html>

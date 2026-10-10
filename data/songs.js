@@ -1,7 +1,7 @@
 // このファイルは tools/convert_songs.py が 歌唱リスト.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-05 21:01  件数: 919
-window.SONGS_UPDATED = "2026-10-05";
+// 生成日時: 2026-10-10 17:48  件数: 931
+window.SONGS_UPDATED = "2026-10-10";
 window.SONGS = [
   {"title": "IRIS OUT", "artist": "米津玄師", "kind": "弾き語り", "format": "動画", "date": "2025-10-24", "url": "https://youtu.be/E1BdQjVeTgI", "yomi": ""},
   {"title": "クリスマスソング", "artist": "back number", "kind": "弾き語り", "format": "動画", "date": "2025-12-25", "url": "https://youtu.be/iDui-e5i6Ow", "yomi": ""},
@@ -888,7 +888,7 @@ window.SONGS = [
   {"title": "サウダージ", "artist": "ポルノグラフィティ", "kind": "音源", "format": "歌枠", "date": "2026-09-10", "url": "https://www.youtube.com/live/3iZZc-o0NnU?t=3507", "yomi": ""},
   {"title": "シグナル", "artist": "WANIMA", "kind": "音源", "format": "歌枠", "date": "2026-09-10", "url": "https://www.youtube.com/live/3iZZc-o0NnU?t=4177", "yomi": ""},
   {"title": "おやすみ泣き声、さよなら歌姫", "artist": "クリープハイプ", "kind": "音源", "format": "歌枠", "date": "2026-09-10", "url": "https://www.youtube.com/live/3iZZc-o0NnU?t=4617", "yomi": ""},
-  {"title": "星屑ビーナス", "artist": "Aimer", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=265", "yomi": "ほしくずびーなす"},
+  {"title": "星屑ビーナス", "artist": "Aimer", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=267", "yomi": "ほしくずびーなす"},
   {"title": "感電", "artist": "米津玄師", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=738", "yomi": "かんでん"},
   {"title": "Lemon", "artist": "米津玄師", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=1167", "yomi": ""},
   {"title": "アイネクライネ", "artist": "米津玄師", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=1550", "yomi": ""},
@@ -905,14 +905,14 @@ window.SONGS = [
   {"title": "ギブス", "artist": "椎名林檎", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=7758", "yomi": ""},
   {"title": "ブルーバード", "artist": "いきものがかり", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=8274", "yomi": ""},
   {"title": "Wherever you are", "artist": "ONE OK ROCK", "kind": "音源", "format": "歌枠", "date": "2026-09-19", "url": "https://www.youtube.com/live/e6jqKeyoO_k?t=8656", "yomi": ""},
-  {"title": "風を食む", "artist": "ヨルシカ", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=409", "yomi": "かぜをはむ"},
-  {"title": "トレモロ", "artist": "RADWIMPS", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=1219", "yomi": ""},
-  {"title": "ドーナツホール", "artist": "ハチ", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=1746", "yomi": ""},
+  {"title": "風を食む", "artist": "ヨルシカ", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=414", "yomi": "かぜをはむ"},
+  {"title": "トレモロ", "artist": "RADWIMPS", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=1223", "yomi": ""},
+  {"title": "ドーナツホール", "artist": "ハチ", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=1749", "yomi": ""},
   {"title": "それがあなたの幸せとしても", "artist": "Heavenz", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=2243", "yomi": ""},
   {"title": "by your side", "artist": "小川大輝", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=2694", "yomi": ""},
   {"title": "Good-bye days", "artist": "YUI for 雨音 薫", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=3852", "yomi": ""},
-  {"title": "テルーの唄", "artist": "手嶌葵", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=4528", "yomi": ""},
-  {"title": "やさしさに包まれたなら", "artist": "荒井由実", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=4946", "yomi": ""},
+  {"title": "テルーの唄", "artist": "手嶌葵", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=4532", "yomi": ""},
+  {"title": "やさしさに包まれたなら", "artist": "荒井由実", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=4953", "yomi": ""},
   {"title": "カントリー・ロード", "artist": "本名陽子", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=5142", "yomi": ""},
   {"title": "晩餐歌", "artist": "tuki.", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-01", "url": "https://www.youtube.com/live/ewSUkz6A5mU?t=5825", "yomi": "ばんさんか"},
   {"title": "Coffee", "artist": "Mrs. GREEN APPLE", "kind": "弾き語り", "format": "Short", "date": "2026-09-22", "url": "https://youtube.com/shorts/TZ9k_aQfgYs", "yomi": ""},
@@ -922,4 +922,16 @@ window.SONGS = [
   {"title": "レプリカント", "artist": "ヨルシカ", "kind": "弾き語り", "format": "Short", "date": "2026-09-29", "url": "https://youtube.com/shorts/_zAf687EJzs", "yomi": ""},
   {"title": "準透明少年", "artist": "ヨルシカ", "kind": "弾き語り", "format": "Short", "date": "2026-09-30", "url": "https://youtube.com/shorts/513xIc_ASBc", "yomi": "じゅんとうめいしょうねん"},
   {"title": "ヘモグロビン", "artist": "内緒のピアス", "kind": "音源", "format": "Short", "date": "2026-10-01", "url": "https://youtube.com/shorts/zw5ffsGTpBY", "yomi": ""},
+  {"title": "unravel", "artist": "TK from 凛として時雨", "kind": "弾き語り", "format": "Short", "date": "2026-10-06", "url": "https://youtube.com/shorts/m10lSWkM7Zs", "yomi": ""},
+  {"title": "恋愛裁判", "artist": "40mP", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=688", "yomi": "れんあいさいばん"},
+  {"title": "メランコリック", "artist": "Junky", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=1631", "yomi": ""},
+  {"title": "ハッピーシンセサイザ", "artist": "EasyPop", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=1821", "yomi": ""},
+  {"title": "again", "artist": "YUI", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=2092", "yomi": ""},
+  {"title": "アボカド", "artist": "yonige", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=3457", "yomi": ""},
+  {"title": "瞬き", "artist": "back number", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=4318", "yomi": "まばたき"},
+  {"title": "鱗(うろこ)", "artist": "秦 基博", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=4786", "yomi": "うろこ"},
+  {"title": "ロミオとシンデレラ", "artist": "doriko", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=5432", "yomi": ""},
+  {"title": "東京テディベア", "artist": "Neru", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=5875", "yomi": "とうきょうてでぃべあ"},
+  {"title": "さよならだけが人生だ", "artist": "伊東歌詞太郎", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=6286", "yomi": ""},
+  {"title": "君が飛び降りるのならば", "artist": "Omoi", "kind": "音源", "format": "動画", "date": "2026-10-10", "url": "https://youtu.be/7nCEgOHC8Vo", "yomi": "きみがとびおりるのならば"},
 ];

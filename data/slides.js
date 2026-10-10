@@ -6,7 +6,7 @@
 //  ・文字は必ず " " で囲みます。行末の , は付けたままで問題ありません。
 //
 //  各項目の意味
-//    label : 左上に出る短いラベル。LIVE / MOVIE / SHORT / INFO など自由
+//    label : 左上に出る短い分類ラベル。お知らせ / 動画 / ライブ / ショート など日本語で自由
 //    title : 見出し（1〜2行で収まる長さがおすすめ）
 //    date  : 日付。2026.09.11 のように書く。不要なら "" にする
 //    url   : クリックした時の移動先。YouTube の URL や、サイト内のページ
@@ -23,21 +23,21 @@
 
 window.SLIDES = [
   {
-    label: "INFO",
+    label: "お知らせ",
     title: "10月10日で活動1周年（1st Anniversary）",
     date: "2026.10.10",
-    url: "news-detail.html?id=anniversary-1st",
-    image: "",   // 画像が無いので文字だけのパネル。1 周年の画像（許諾のあるもの）が用意できたら images/ に置いてここに書く
-  },
-  {
-    label: "MOVIE",
-    title: "夏霞 / あたらよ - Covered by ななし律歌×柊虎雨",
-    date: "2026.09.18",
-    url: "https://youtu.be/Wbh38XW5mts",
+    url: "https://www.youtube.com/live/S6gyS0uImPE",   // 1 周年記念の歌枠（10/10 21:00〜）。サムネイルは自動表示
     image: "",
   },
   {
-    label: "LIVE",
+    label: "動画",
+    title: "君が飛び降りるのならば / Omoi - Covered by ななし律歌",
+    date: "2026.10.10",
+    url: "https://youtu.be/7nCEgOHC8Vo",
+    image: "",
+  },
+  {
+    label: "ライブ",
     title: "初ライブ「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」に出演",
     date: "2026.09.11",
     url: "news-detail.html?id=live-vackon-vol13-report",
