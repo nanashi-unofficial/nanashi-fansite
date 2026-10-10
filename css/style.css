@@ -541,14 +541,15 @@ main { padding-bottom: 0; }  /* 右下の固定ボタン分の余白はフッタ
   .profile-intro { letter-spacing: 0.06em; }
   .nav { gap: 10px; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; padding: 4px 0; }  /* 上下 4px はフォーカス枠が切れないための余白 */
   .nav::-webkit-scrollbar { display: none; }
-  .nav a { font-size: 0.74rem; letter-spacing: 0.04em; flex-shrink: 0; }
+  .nav a { font-size: 0.8rem; letter-spacing: 0.04em; flex-shrink: 0; padding: 10px 3px; }  /* 文字を少し大きくし、左右の余白で押せる幅を広げる（2026-10-10 レビュー対応） */
+  .nav a[href="./index.html"], .nav a[href="/nanashi-fansite/"] { display: none; }  /* ロゴがトップへのリンクなので、幅が足りない端末ではメニューの「トップ」を省く（5 つ並ぶと 401〜432px の端末で右端が切れるため、境目は 480px）。後者は 404.html 用（リンク先を公開 URL 基準で書いているため） */
 }
 
 @media (max-width: 400px) {
   .logo .logo-sub { display: none; }  /* 小さい端末ではメニューを優先 */
-  .nav { gap: 8px; }
-  .nav a { letter-spacing: 0; }
-  .nav a[href="./index.html"], .nav a[href="/nanashi-fansite/"] { display: none; }  /* ロゴがトップへのリンクなので、幅が足りない端末ではメニューの「トップ」を省く（メニューが 5 つ並ぶため）。後者は 404.html 用（リンク先を公開 URL 基準で書いているため） */
+  .logo .logo-name { font-size: 0.96rem; }
+  .nav { gap: 4px; }  /* 各項目に左右 2px の余白があるので、見た目の間隔は 8px。幅 360px の端末でも数 px の余裕を残す */
+  .nav a { letter-spacing: 0; padding: 10px 2px; }
 }
 
 @media print {
