@@ -1,6 +1,6 @@
 // このファイルは tools/convert_songs.py が 歌唱リスト.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-10 17:48  件数: 931
+// 生成日時: 2026-10-10 23:40  件数: 951
 window.SONGS_UPDATED = "2026-10-10";
 window.SONGS = [
   {"title": "IRIS OUT", "artist": "米津玄師", "kind": "弾き語り", "format": "動画", "date": "2025-10-24", "url": "https://youtu.be/E1BdQjVeTgI", "yomi": ""},
@@ -934,4 +934,24 @@ window.SONGS = [
   {"title": "東京テディベア", "artist": "Neru", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=5875", "yomi": "とうきょうてでぃべあ"},
   {"title": "さよならだけが人生だ", "artist": "伊東歌詞太郎", "kind": "弾き語り", "format": "歌枠", "date": "2026-10-08", "url": "https://www.youtube.com/live/13VSvbUScU0?t=6286", "yomi": ""},
   {"title": "君が飛び降りるのならば", "artist": "Omoi", "kind": "音源", "format": "動画", "date": "2026-10-10", "url": "https://youtu.be/7nCEgOHC8Vo", "yomi": "きみがとびおりるのならば"},
+  {"title": "スキスキ絶頂症", "artist": "koyori(電ポルP)", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/live/S6gyS0uImPE?t=110", "yomi": ""},
+  {"title": "IRIS OUT", "artist": "米津玄師", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=337s", "yomi": ""},
+  {"title": "アンノウン・マザーグース", "artist": "wowaka", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=502s", "yomi": ""},
+  {"title": "おやすみ泣き声、さよなら歌姫", "artist": "クリープハイプ", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=787s", "yomi": ""},
+  {"title": "モニタリング (Best Friend Remix)", "artist": "DECO*27", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=1039s", "yomi": ""},
+  {"title": "栞", "artist": "クリープハイプ", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=1232s", "yomi": "しおり"},
+  {"title": "車輪の唄", "artist": "BUMP OF CHICKEN", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=1505s", "yomi": "しゃりんのうた"},
+  {"title": "とても素敵な六月でした", "artist": "Eight", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=1776s", "yomi": ""},
+  {"title": "狂乱 Hey Kids!!", "artist": "THE ORAL CIGARETTES", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=2073s", "yomi": "きょうらんへいきっず"},
+  {"title": "怪獣の花唄", "artist": "Vaundy", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=2335s", "yomi": "かいじゅうのはなうた"},
+  {"title": "アトラクトライト", "artist": "*Luna", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=2905s", "yomi": ""},
+  {"title": "私は、私達は", "artist": "Guiano", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=3196s", "yomi": "わたしはわたしたちは"},
+  {"title": "今はいいんだよ。", "artist": "MIMI", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=3444s", "yomi": "いまはいいんだよ"},
+  {"title": "空に歌えば", "artist": "amazarashi", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=3603s", "yomi": "そらにうたえば"},
+  {"title": "27", "artist": "SUPER BEAVER", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=3843s", "yomi": ""},
+  {"title": "ODDS&ENDS", "artist": "ryo (supercell)", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=4084s", "yomi": ""},
+  {"title": "きみも悪い人でよかった", "artist": "ピノキオピー", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=4425s", "yomi": ""},
+  {"title": "ファンファーレ", "artist": "sumika", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=4823s", "yomi": ""},
+  {"title": "我逢人", "artist": "Mrs. GREEN APPLE", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=5830s", "yomi": "がほうじん"},
+  {"title": "ケセラセラ", "artist": "Mrs. GREEN APPLE", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=6048s", "yomi": ""},
 ];
