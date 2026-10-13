@@ -1,7 +1,7 @@
 // このファイルは tools/convert_songs.py が 歌唱リスト.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-10 23:40  件数: 951
-window.SONGS_UPDATED = "2026-10-10";
+// 生成日時: 2026-10-13 21:45  件数: 952
+window.SONGS_UPDATED = "2026-10-13";
 window.SONGS = [
   {"title": "IRIS OUT", "artist": "米津玄師", "kind": "弾き語り", "format": "動画", "date": "2025-10-24", "url": "https://youtu.be/E1BdQjVeTgI", "yomi": ""},
   {"title": "クリスマスソング", "artist": "back number", "kind": "弾き語り", "format": "動画", "date": "2025-12-25", "url": "https://youtu.be/iDui-e5i6Ow", "yomi": ""},
@@ -954,4 +954,5 @@ window.SONGS = [
   {"title": "ファンファーレ", "artist": "sumika", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=4823s", "yomi": ""},
   {"title": "我逢人", "artist": "Mrs. GREEN APPLE", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=5830s", "yomi": "がほうじん"},
   {"title": "ケセラセラ", "artist": "Mrs. GREEN APPLE", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=6048s", "yomi": ""},
+  {"title": "待ってて、彼岸で", "artist": "rinri", "kind": "音源", "format": "Short", "date": "2026-10-13", "url": "https://youtube.com/shorts/SeZ8fmAwjMk", "yomi": "まっててひがんで"},
 ];
