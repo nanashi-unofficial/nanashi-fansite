@@ -1,7 +1,7 @@
 // このファイルは tools/convert_songs.py が 歌唱リスト.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-14 22:45  件数: 953
-window.SONGS_UPDATED = "2026-10-14";
+// 生成日時: 2026-10-15 22:00  件数: 954
+window.SONGS_UPDATED = "2026-10-15";
 window.SONGS = [
   {"title": "IRIS OUT", "artist": "米津玄師", "kind": "弾き語り", "format": "動画", "date": "2025-10-24", "url": "https://youtu.be/E1BdQjVeTgI", "yomi": ""},
   {"title": "クリスマスソング", "artist": "back number", "kind": "弾き語り", "format": "動画", "date": "2025-12-25", "url": "https://youtu.be/iDui-e5i6Ow", "yomi": ""},
@@ -956,4 +956,5 @@ window.SONGS = [
   {"title": "ケセラセラ", "artist": "Mrs. GREEN APPLE", "kind": "音源", "format": "歌枠", "date": "2026-10-10", "url": "https://www.youtube.com/watch?v=S6gyS0uImPE&t=6048s", "yomi": ""},
   {"title": "待ってて、彼岸で", "artist": "rinri", "kind": "音源", "format": "Short", "date": "2026-10-13", "url": "https://youtube.com/shorts/SeZ8fmAwjMk", "yomi": "まっててひがんで"},
   {"title": "君が夜の海に還るまで", "artist": "キタニタツヤ", "kind": "音源", "format": "Short", "date": "2026-10-14", "url": "https://youtube.com/shorts/7fvwJ9-i20g", "yomi": "きみがよるのうみにかえるまで"},
+  {"title": "三日月ステップ", "artist": "r-906", "kind": "音源", "format": "Short", "date": "2026-10-15", "url": "https://youtube.com/shorts/MuT6MKND9rc", "yomi": "みかづきすてっぷ"},
 ];
