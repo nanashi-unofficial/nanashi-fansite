@@ -98,6 +98,7 @@
         a.setAttribute("aria-label", s.title + " のアーカイブを新しいタブで開く");
         a.innerHTML = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 2.5v11l9-5.5z"/></svg>';
         a.appendChild(document.createTextNode("視聴する"));
+        a.addEventListener("click", function () { window.trackSongClick(s, "歌唱リスト"); });
         l.appendChild(a);
       }
       tr.appendChild(l);
