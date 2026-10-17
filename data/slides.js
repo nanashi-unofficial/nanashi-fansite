@@ -31,9 +31,9 @@ window.SLIDES = [
   },
   {
     label: "動画",
-    title: "君が飛び降りるのならば / Omoi - Covered by ななし律歌",
-    date: "2026.10.10",
-    url: "https://youtu.be/7nCEgOHC8Vo",
+    title: "比較症候群 / 葵木ゴウ - Covered by ななし律歌",
+    date: "2026.10.16",
+    url: "https://youtu.be/Pjxl4UUZ_Uc",
     image: "",
   },
   {
