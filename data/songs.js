@@ -1,7 +1,7 @@
 // このファイルは tools/convert_songs.py が 歌唱リスト.xlsx から自動生成します。
 // 直接編集せず、Excel を直してから変換スクリプトを実行してください。
-// 生成日時: 2026-10-17 18:19  件数: 956
-window.SONGS_UPDATED = "2026-10-17";
+// 生成日時: 2026-10-19 19:21  件数: 957
+window.SONGS_UPDATED = "2026-10-19";
 window.SONGS = [
   {"title": "IRIS OUT", "artist": "米津玄師", "kind": "弾き語り", "format": "動画", "date": "2025-10-24", "url": "https://youtu.be/E1BdQjVeTgI", "yomi": ""},
   {"title": "クリスマスソング", "artist": "back number", "kind": "弾き語り", "format": "動画", "date": "2025-12-25", "url": "https://youtu.be/iDui-e5i6Ow", "yomi": ""},
@@ -959,4 +959,5 @@ window.SONGS = [
   {"title": "三日月ステップ", "artist": "r-906", "kind": "音源", "format": "Short", "date": "2026-10-15", "url": "https://youtube.com/shorts/MuT6MKND9rc", "yomi": "みかづきすてっぷ"},
   {"title": "比較症候群", "artist": "葵木ゴウ", "kind": "音源", "format": "動画", "date": "2026-10-16", "url": "https://youtu.be/Pjxl4UUZ_Uc", "yomi": "ひかくしょうこうぐん"},
   {"title": "比較症候群", "artist": "葵木ゴウ", "kind": "音源", "format": "Short", "date": "2026-10-17", "url": "https://youtube.com/shorts/ObWuDfOVmF0", "yomi": "ひかくしょうこうぐん"},
+  {"title": "僕らの記憶を掠わないで", "artist": "rinri", "kind": "音源", "format": "Short", "date": "2026-10-19", "url": "https://youtube.com/shorts/EmCPVmM25BM", "yomi": "ぼくらのきおくをさらわないで"},
 ];
