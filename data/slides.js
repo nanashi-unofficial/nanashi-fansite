@@ -42,6 +42,5 @@ window.SLIDES = [
     date: "2026.12.21",
     url: "https://www.zan-live.com/ja/live/detail/11068",   // Z-aN のチケットページ（吉祥寺SHUFFLE 19:00 開演・現地と配信）
     image: "",                                              // キービジュアルは掲載許諾の確認前なので文字だけのパネル
-    until: "2026.12.28",                                    // 配信アーカイブの視聴期限。過ぎると自動で消える
   },
 ];
