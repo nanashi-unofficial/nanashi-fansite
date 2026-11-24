@@ -5,6 +5,7 @@
 - profile.jpg（900×1200）: プロフィールページの画像。元: 画像/プロフィール画像.jpeg（ご本人の X 投稿画像）
 - vackon-shuffle-vol13.jpg（1200×675）: トップの注目スライド（初ライブの出演レポート。何枚目に出るかは data/slides.js の並び順で決まる）。元: 画像/VackON_SHUFFLE_vol13_keyvisual.png（イベントのキービジュアル。他の出演者も含む）
 - cross-reality-vol24.jpg（1200×675）: トップの注目スライド（CROSS REALITY vol.24 の出演告知）。元: 画像/CROSS_REALITY_vol24_keyvisual.png（Z-aN のイベントページのキービジュアル。他の出演者も含む）
+- melokey.jpg（1200×675）: トップの注目スライド（グッズ「MELOKEY」の販売開始）。元: 画像/MELOKEY_告知画像.jpg（2000×2000 の告知画像。正方形を中央に置き、左右はぼかした同じ画像で埋めた）
 - og.png（1200×630）: X などで共有したときに出るカード用の画像（文字ロゴのみ、自作）
 - apple-touch-icon.png（180×180）: iPhone のホーム画面に追加したときのアイコン（自作）
 

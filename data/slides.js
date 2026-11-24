@@ -30,11 +30,11 @@ window.SLIDES = [
     image: "images/cross-reality-vol24.jpg",                // イベントのキービジュアル（他の出演者も含む）
   },
   {
-    label: "お知らせ",
-    title: "10月10日で活動1周年（1st Anniversary）",
-    date: "2026.10.10",
-    url: "https://www.youtube.com/live/S6gyS0uImPE",   // 1 周年記念の歌枠（10/10 21:00〜）。サムネイルは自動表示
-    image: "",
+    label: "グッズ",
+    title: "CD型アクリルキーホルダー「MELOKEY」販売開始",
+    date: "2026.11.17",
+    url: "https://pines.base.ec/items/163902376",   // BASE の「ななし律歌_MELOKEY」商品ページ（受注は 11/30 23:59 まで）
+    image: "images/melokey.jpg",                    // 告知画像（正方形）を 16:9 に収めたもの。元: 画像/MELOKEY_告知画像.jpg
   },
   {
     label: "動画",
