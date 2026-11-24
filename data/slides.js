@@ -38,9 +38,10 @@ window.SLIDES = [
   },
   {
     label: "ライブ",
-    title: "初ライブ「Vack-ON!! × SHUFFLE -CROSS REALITY- vol.13」に出演",
-    date: "2026.09.11",
-    url: "news-detail.html?id=live-vackon-vol13-report",
-    image: "images/vackon-shuffle-vol13.jpg",
+    title: "「CROSS REALITY vol.24」への出演が決定",
+    date: "2026.12.21",
+    url: "https://www.zan-live.com/ja/live/detail/11068",   // Z-aN のチケットページ（吉祥寺SHUFFLE 19:00 開演・現地と配信）
+    image: "",                                              // キービジュアルは掲載許諾の確認前なので文字だけのパネル
+    until: "2026.12.28",                                    // 配信アーカイブの視聴期限。過ぎると自動で消える
   },
 ];
