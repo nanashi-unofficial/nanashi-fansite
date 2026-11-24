@@ -41,6 +41,6 @@ window.SLIDES = [
     title: "「CROSS REALITY vol.24」への出演が決定",
     date: "2026.12.21",
     url: "https://www.zan-live.com/ja/live/detail/11068",   // Z-aN のチケットページ（吉祥寺SHUFFLE 19:00 開演・現地と配信）
-    image: "",                                              // キービジュアルは掲載許諾の確認前なので文字だけのパネル
+    image: "images/cross-reality-vol24.jpg",                // イベントのキービジュアル（他の出演者も含む）
   },
 ];
